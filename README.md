@@ -1,6 +1,6 @@
 # Scotty Crossing
 
-A Crossy Road-inspired browser game built with HTML5 Canvas — no dependencies, no build step.
+A Crossy Road-inspired browser game built with HTML5 Canvas. I used Kiro to code this and tried to add a CMU-related theme to the original Crossy Roads as close as possible.
 
 **Play:** Open `index.html` in any browser, or serve locally:
 ```
