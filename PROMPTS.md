@@ -56,8 +56,6 @@ A record of the AI-assisted development conversation that produced this game.
 
 **15.** "can you upload this to my github https://github.com/andrewjounkim"
 
-**16.** "can you insert a prompt log of this too"
-
 ---
 
 ## Key Technical Decisions
