@@ -6,7 +6,7 @@ A Crossy Road-inspired browser game built with HTML5 Canvas. I used Kiro to code
 ```
 python3 -m http.server 8766 --bind 127.0.0.1
 ```
-Then open http://127.0.0.1:8766
+Then open [http://127.0.0.1:8766](https://github.com/andrewjounkim/portfolio/tree/main)
 
 ## Features
 - Isometric-style top-down view with chunky voxel graphics
